@@ -11,7 +11,7 @@ You can use any Windows based editor of choice to edit source file content: incl
 
 PDM user options are also supported as long as they don't expect to interface with a 5250 interface. The PDM options file setting defaults to: ```QGPL/QAUOOPT``` and can be changed in the settings file.
 
-The Work with IBM i client also provides a direct interface to the ```iForGit source management``` commands for commiting changes to your git repositories from your standard source physical files. Use of these commands assumes you have an iForGit annual subscription license. Learn more here: http://www.iforgit.com
+The Work with IBM i client also provides a direct interface to the ```iForGit source management``` commands for committing changes to your git repositories from your standard source physical files. Use of these commands assumes you have an iForGit annual subscription license. Learn more here: http://www.iforgit.com
 
 The Work with IBM i client also knows if a source member has already been downloaded locally for offline/local editing and provides visual clue in the UI.
 
@@ -23,7 +23,7 @@ The Work with IBM i client also knows if a source member has already been downlo
 # IBM i Requirements
 IBM i V7R3 and above
 
-SSH must be enabled and running for commectivity.
+SSH must be enabled and running for connectivity.
 
 Open Source Package Management must be installed.
 
